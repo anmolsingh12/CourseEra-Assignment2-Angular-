@@ -5,3 +5,10 @@ body {
   font-family: Roboto, sans-serif; 
   
 }
+
+.container {
+  margin: 20px;
+  display:flex;
+}
+
+p { word-break: break-all }
